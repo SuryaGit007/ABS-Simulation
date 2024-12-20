@@ -12,7 +12,7 @@ desiredSlip = 0.2;
 %normal force
 FN = m*g;
 
-%temporär Mb
+%temporr Mb
 Mb = 1500;
 
 %initiell vinkelhast och hast
